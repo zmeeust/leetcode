@@ -9,3 +9,4 @@ LeetCode Python Problems Solutions
 | 4   | Algorithms | Median of Two Sorted Arrays | [Python](./algorithms/0004_median_of_two_sorted_arrays.py) |
 | 5   | Algorithms | Longest Palindromic Substring | [Python](./algorithms/0005_longest_palindromic_substring.py) |
 | 6   | Algorithms | Zigzag Conversion | [Python](./algorithms/0006_zigzag_conversion.py) |
+| 7   | Algorithms | Reverse Integer | [Python](./algorithms/0007_reverse_integer.py) |
