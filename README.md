@@ -11,3 +11,4 @@ LeetCode Python Problems Solutions
 | 6   | Algorithms | Zigzag Conversion             | [Python](./algorithms/0006_zigzag_conversion.py) |
 | 7   | Algorithms | Reverse Integer               | [Python](./algorithms/0007_reverse_integer.py) |
 | 8   | Algorithms | String To Imteger (atoi)      | [Python](./algorithms/0008_string_to_integer_atoi.py) |
+| 9   | Algorithms | Palindrome Number             | [Python](./algorithms/0009_palindrome_number.py) |
