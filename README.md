@@ -16,3 +16,4 @@ LeetCode Python Problems Solutions
 | 11  | Algorithms | Container With Most Water     | [Python](./algorithms/0011_container_with_most_water.py) |
 | 12  | Algorithms | Integer to Roman              | [Python](./algorithms/0012_integer_to_romain.py) |
 | 13  | Algorithms | Roman to Integer              | [Python](./algorithms/0013_romain_to_integer.py) |
+| 14  | Algorithms | Longest Common Prefix         | [Python](./algorithms/0014_longest_common_prefix.py) |
