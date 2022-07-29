@@ -21,3 +21,4 @@ LeetCode Python Problems Solutions
 | 16  | Algorithms | 3Sum Closest                          | [Python](./algorithms/0016_3sum_closest.py)                                   |
 | 17  | Algorithms | Letter Combinations of a Phone Number | [Python](./algorithms/0017_letter_combinations_of_a_phone_number.py)          |
 | 18  | Algorithms | 4Sum                                  | [Python](./algorithms/0018_4sum.py)                                           |
+| 19  | Algorithms | Remove Nth Node From End of List      | [Python](./algorithms/0019_remove_nth_node_from_end_of_list.py)               |
