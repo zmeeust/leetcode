@@ -23,4 +23,5 @@ LeetCode Python Problems Solutions
 | 18  | Algorithms | 4Sum                                  | [Python](./algorithms/0018_4sum.py)                                           |
 | 19  | Algorithms | Remove Nth Node From End of List      | [Python](./algorithms/0019_remove_nth_node_from_end_of_list.py)               |
 | 20  | Algorithms | Valid Parentheses                     | [Python](./algorithms/0020_valid_parentheses.py)                              |
-| 21  | Algorithms | Merge Two Sorted Lists                | [Python](./algorithms/0021_merge_two_sorted_lists.py)                              |
+| 21  | Algorithms | Merge Two Sorted Lists                | [Python](./algorithms/0021_merge_two_sorted_lists.py)                         |
+| 22  | Algorithms | Generate Parentheses                  | [Python](./algorithms/0022_generate_parentheses.py)                           |
