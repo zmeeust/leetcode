@@ -26,4 +26,5 @@ LeetCode Python Problems Solutions
 | 21  | Algorithms | Merge Two Sorted Lists                | [Python](./algorithms/0021_merge_two_sorted_lists.py)                         |
 | 22  | Algorithms | Generate Parentheses                  | [Python](./algorithms/0022_generate_parentheses.py)                           |
 | 23  | Algorithms | Merge k Sorted Lists                  | [Python](./algorithms/0023_merge_k_sorted_lists.py)                           |
-| 24  | Algorithms | Swap Nodes in Pairs                   | [Python](./algorithms/0024_swap_nodes_in_pairs.py)                           |
+| 24  | Algorithms | Swap Nodes in Pairs                   | [Python](./algorithms/0024_swap_nodes_in_pairs.py)                            |
+| 25  | Algorithms | Reverse Nodes in k-Group              | [Python](./algorithms/0025_reverse_nodes_in_k-group.py)                       |
