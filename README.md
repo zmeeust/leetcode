@@ -28,3 +28,4 @@ LeetCode Python Problems Solutions
 | 23  | Algorithms | Merge k Sorted Lists                  | [Python](./algorithms/0023_merge_k_sorted_lists.py)                           |
 | 24  | Algorithms | Swap Nodes in Pairs                   | [Python](./algorithms/0024_swap_nodes_in_pairs.py)                            |
 | 25  | Algorithms | Reverse Nodes in k-Group              | [Python](./algorithms/0025_reverse_nodes_in_k-group.py)                       |
+| 26  | Algorithms | Remove Duplicates from Sorted Array   | [Python](./algorithms/0026_remove_duplicates_from_sorted_array.py)            |
