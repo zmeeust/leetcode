@@ -31,3 +31,4 @@ LeetCode Python Problems Solutions
 | 26  | Algorithms | Remove Duplicates from Sorted Array   | [Python](algorithms/0-99/0026_remove_duplicates_from_sorted_array.py)            |
 | 27  | Algorithms | Remove Element                        | [Python](algorithms/0-99/0027_remove_element.py)                                 |
 | 28  | Algorithms | Implement strStr()                    | [Python](algorithms/0-99/0028_Implement_strStr().py)                             |
+| 29  | Algorithms | Divide Two Integers                   | [Python](algorithms/0-99/0029_divide_two_integers.py)                            |
