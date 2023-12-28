@@ -33,4 +33,5 @@ LeetCode Python Problems Solutions
 | 28   | Algorithms | Implement strStr()                        | [Python](algorithms/0-99/0028_Implement_strStr().py)                             |
 | 29   | Algorithms | Divide Two Integers                       | [Python](algorithms/0-99/0029_divide_two_integers.py)                            |
 | 30   | Algorithms | Substring with Concatenation of All Words | [Python](algorithms/0-99/0030_substring_with_concatenation_of_all_words.py)      |
+| 217  | Algorithms | Contains Duplicate                        | [Python](algorithms/200-299/0217_contains_dublicate.py)                          |
 | 2089 | Algorithms | Find Target Indices After Sorting Array   | [Python](algorithms/2000-2099/2089_find_target_indices_after_sorting_array.py)   |
